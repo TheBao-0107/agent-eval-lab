@@ -1,0 +1,13 @@
+test_01_normal (__main__.WeekOneChecks.test_01_normal) ... ok
+test_02_empty (__main__.WeekOneChecks.test_02_empty) ... ok
+test_03_missing_status (__main__.WeekOneChecks.test_03_missing_status) ... ok
+test_04_unknown_status (__main__.WeekOneChecks.test_04_unknown_status) ... ok
+test_05_negative_duration (__main__.WeekOneChecks.test_05_negative_duration) ... ok
+test_06_duplicate_id (__main__.WeekOneChecks.test_06_duplicate_id) ... ok
+test_07_wrong_duration_type (__main__.WeekOneChecks.test_07_wrong_duration_type) ... ok
+test_08_no_input_mutation (__main__.WeekOneChecks.test_08_no_input_mutation) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.000s
+
+OK
